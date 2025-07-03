@@ -1,0 +1,19 @@
+{
+  "organizationName": "Intelliflo",
+  "teams": {
+    "FantasticFour": {
+      "members": [
+        "rahul5593",
+        "sahiljaswal108",
+        "hkumargundumilli",
+        "vineethreddyperam"
+      ],
+      "repositories": [
+        "Microservice.Content",
+        "Monolith.Crm",
+        "data-fix-scripts",
+        "IntelligentOffice"
+      ]
+    }
+  }
+}
